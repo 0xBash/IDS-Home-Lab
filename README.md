@@ -1,6 +1,6 @@
 <p align="middle"> <h1 align="middle">Rᴇᴀᴅᴍᴇ​​​​​ ( ͡👁️ ͜ʖ ͡👁️)</h1></p>
-
-# Iɴᴛʀᴜsɪᴏɴ Dᴇᴛᴇᴄᴛɪᴏɴ Sʏsᴛᴇᴍ - Hᴏᴍᴇ Lᴀʙ 🧑‍💻
+<h1 align="middle">Iɴᴛʀᴜsɪᴏɴ Dᴇᴛᴇᴄᴛɪᴏɴ Sʏsᴛᴇᴍ - Hᴏᴍᴇ Lᴀʙ 🧑‍💻
+  
 # Tool:
 <h2> 🐽 𝚂nort as an Intrusion Detection System 🕵️
 
