@@ -5,7 +5,7 @@
 <h2> 🐽 𝚂nort as an Intrusion Detection System 🕵️
 
 # Machines:
-<h2>  Attacker: 𝐾𝑎𝑙𝑖 ☠️ | Victim: 𝑊𝑖𝑛𝑑𝑤𝑜𝑠 7 𝑈𝑙𝑡𝑖𝑚𝑎𝑡𝑒 👦 | IDS: 𝐿𝑖𝑛𝑢𝑥 𝑀𝑖𝑛𝑡 🍀
+<h2>  Attacker: Kali ☠️ | Victim: Windows Server 2008 R2 👦 | IDS: Linux Mint 🍀
 
 # Proof Of Concept <sup>POC</sup>
   
