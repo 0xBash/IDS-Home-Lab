@@ -1,6 +1,6 @@
-# Intrusion Detection System - Home Lab 🧑‍💻
+# Iɴᴛʀᴜsɪᴏɴ Dᴇᴛᴇᴄᴛɪᴏɴ Sʏsᴛᴇᴍ - Hᴏᴍᴇ Lᴀʙ 🧑‍💻
 # Tool:
-<h2> 🐽 𝚂𝙽𝙾𝚁𝚃 as an Intrusion Detection System 🕵️
+<h2> 🐽 𝚂nort as an Intrusion Detection System 🕵️
 
 # Machines:
 <h2>  Attacker: 𝐾𝑎𝑙𝑖 ☠️ | Victim: 𝑊𝑖𝑛𝑑𝑤𝑜𝑠 7 𝑈𝑙𝑡𝑖𝑚𝑎𝑡𝑒 👦 | IDS: 𝐿𝑖𝑛𝑢𝑥 𝑀𝑖𝑛𝑡 🍀
