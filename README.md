@@ -5,11 +5,11 @@
 <h2> 🐽 𝚂nort as an Intrusion Detection System 🕵️
 
 # Machines:
-<h2>  Attacker: Kali ☠️ | Victim: Windows Server 2008 R2 👦 | IDS: Linux Mint 🍀
+<h2>  Attacker: Kali ☠️ | Victim: Metasploitable 2 👦 | IDS: Linux Mint 🍀
 
 
 # Attack and Detection Scenario:
-  > ▶️ !YT Lab Demo ⬇️
+  > ## ▶️ YOUTUBE Lab Demo ⬇️
   [![YouTube Video](https://img.youtube.com/vi/SLr5Qz7gklE/0.jpg)](https://www.youtube.com/watch?v=SLr5Qz7gklE)
 
 
@@ -26,8 +26,9 @@
 
 ## Configuring line number in VIM 
 ```
-$ vim /root/.vimrc => Within 1. set number 2. syntax on
+$ vim /root/.vimrc
 ```
+> Line 1. set number ; Line 2. syntax on
 ## Snort's main config file location
 ```
 $ sudo vim /etc/snort/snort.conf
