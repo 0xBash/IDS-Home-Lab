@@ -7,18 +7,42 @@
 # Machines:
 <h2>  Attacker: Kali ☠️ | Victim: Windows Server 2008 R2 👦 | IDS: Linux Mint 🍀
 
-# Proof Of Concept <sup>POC</sup>
-  
-<h2> Screenshots </h2>
-
-<h2> Custom Rules:
-# IDS Setup and custom rules
-
 
 # Attack and Detection Scenario:
   > ▶️ !YT Lab Demo ⬇️
-
   [![YouTube Video](https://img.youtube.com/vi/SLr5Qz7gklE/0.jpg)](https://www.youtube.com/watch?v=SLr5Qz7gklE)
 
 
+# Screenshots
+> ## Snort Installation
+![snort-installation](https://github.com/0xBash/IDS-Home-Lab/assets/76225821/d88398c2-fde8-48db-bc63-5991f4c96c24)
+> ## Editing ipvar $HOME_NET
+![config-snortconf](https://github.com/0xBash/IDS-Home-Lab/assets/76225821/000c0534-2f49-450f-a114-cea162d39fae)
+> ## Custom Rules:
+ ![snort-custom_rule](https://github.com/0xBash/IDS-Home-Lab/assets/76225821/a896941f-52f1-40ae-80d3-2a440e464116)
 
+
+# VIM config and Snort config
+
+## Configuring line number in VIM 
+```
+$ vim /root/.vimrc => Within 1. set number 2. syntax on
+```
+## Snort's main config file location
+```
+$ sudo vim /etc/snort/snort.conf
+```
+## Snort's Custom rules location
+```
+$ sudo vim /etc/snort/rules/rules.local
+```
+## Custom ICMP Ping Detection Rule
+```
+alert ICMP any any -> $HOME_NET any (msg:"ICMP Ping Detected"; sid:100001; rev:1;)
+```
+## Start the Snort Detection
+```
+snort  -q -l /var/log/snort -i ens34 -A console -c /etc/snort/snort.conf
+```
+> -q for Quite-Mode (ids/ips) run ; -l for logging traffic ;
+> -i for Interface ; -A for Alert-mode ; -c defines location of config file
