@@ -9,10 +9,16 @@
 
 # Proof Of Concept <sup>POC</sup>
   
-<h2> Screenshots
-    
+<h2> Screenshots </h2>
+
+<h2> Custom Rules:
 # IDS Setup and custom rules
 
-<h2> Setup:
-  
-<h2> Custom Rules:
+
+# Attack and Detection Scenario:
+  > ▶️ !YT Lab Demo ⬇️
+
+  [![YouTube Video](https://img.youtube.com/vi/SLr5Qz7gklE/0.jpg)](https://www.youtube.com/watch?v=SLr5Qz7gklE)
+
+
+
