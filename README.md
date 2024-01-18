@@ -10,7 +10,6 @@
 
 # Attack and Detection Scenario:
   > ## ▶️ YOUTUBE Lab Demo ⬇️
-  [![YouTube Video](https://img.youtube.com/vi/SLr5Qz7gklE/0.jpg)](https://www.youtube.com/watch?v=SLr5Qz7gklE)
 
 
 # Screenshots
