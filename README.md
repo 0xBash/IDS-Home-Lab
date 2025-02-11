@@ -9,8 +9,8 @@
 
 
 # Attack and Detection Scenario:
-  > ## ▶️ YOUTUBE Lab Demo ⬇️
-  [![Watch the video](https://i.ytimg.com/an_webp/SLr5Qz7gklE/mqdefault_6s.webp?du=3000&sqp=CP3krb0G&rs=AOn4CLAcu1jhr9Sp65HYjSM1ieQ-UdiWRg)](https://www.youtube.com/watch?v=SLr5Qz7gklE)
+  > ## ▶️ Lab Demo ⬇️
+  [![ICMP Ping Detection](https://i.ytimg.com/an_webp/SLr5Qz7gklE/mqdefault_6s.webp?du=3000&sqp=CP3krb0G&rs=AOn4CLAcu1jhr9Sp65HYjSM1ieQ-UdiWRg)](https://www.youtube.com/watch?v=SLr5Qz7gklE)
 
 
 # Screenshots
